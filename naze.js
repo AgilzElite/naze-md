@@ -26,7 +26,7 @@ const tengah = moment.tz('Asia/Makassar').format('HH:mm:ss')
 const timur = moment.tz('Asia/Jayapura').format('HH:mm:ss')
 const nyoutube = ('© Agilz\nWa :\nwa.me/6285857537269')  //ubah di config biar ngk emror
 const ini_mark = `0@s.whatsapp.net`
-const ownernya = ownernomer + '6285857537269@s.whatsapp.net'
+const ownernya = ownernomer + '@s.whatsapp.net'
 
 //TIME
 const time2 = moment().tz('Asia/Jakarta').format('HH:mm:ss')  
